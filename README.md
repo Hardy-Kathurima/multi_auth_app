@@ -33,15 +33,15 @@ php artisan serve
 ```
 Register users,in your database change user role to 1 for admin and 0 for a normal user.
 
-:-) Congratulations! you have successfully installed the project in your local server.
+:-) Congratulations! you have successfully installed the project.
 
 You can change the views according to your specifications.
 
 #### Project preview
 Admin page
-![alt text](public\images\admin.png)
+![alt text](./public\images\admin.png)
 User Page
-![alt text](public\images\user.png)
+![alt text](./public\images\user.png)
 
 #### Author
 [Hardy Kathurima](https://www.linkedin.com/in/hardykathurima)
